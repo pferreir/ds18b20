@@ -1,3 +1,4 @@
+#include <OneWire.h>
 #include "ds18b20.h"
 
 // Supports up to 8 devices connected to the OneWire bus
